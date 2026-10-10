@@ -85,9 +85,9 @@ To change prices or adventure details, edit the `A` object at the top of `script
 
 ## Team
 
-- [Team member 1]
-- [Team member 2]
-- [Team member 3]
+- [ST10517860]
+- [ST10457180]
+- [ST10533474]
 
 ## Module details
 
